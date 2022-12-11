@@ -1,602 +1,602 @@
 [
-     {
+    {
         "name": "Bạc Sỉu Đá",
         "value": 29,
-        "source": "../assets/images/Menu/CPVN1.jpg",
+        "source": "CPVN1",
         "category": "coffeeVN"
     },
     {
         "name": "Bạc Sỉu Nóng",
         "value": 35,
-        "source": "../assets/images/Menu/CPVN2.jpg",
+        "source": "CPVN2",
         "category": "coffeeVN"
     },
     {
         "name": "Cà Phê Đen Đá",
         "value": 29,
-        "source": "../assets/images/Menu/CPVN3.jpg",
+        "source": "CPVN3",
         "category": "coffeeVN"
     },
     {
         "name": "Cà Phê Đen Nóng",
         "value": 35,
-        "source": "../assets/images/Menu/CPVN4.jpg",
+        "source": "CPVN4",
         "category": "coffeeVN"
     },
     {
         "name": "Cà Phê Sữa Đá",
         "value": 29,
-        "source": "../assets/images/Menu/CPVN5.jpg",
+        "source": "CPVN5",
         "category": "coffeeVN"
     },
     {
         "name": "Cà Phê Sữa Đá Chai Fresh 250ml",
         "value": 79,
-        "source": "../assets/images/Menu/CPVN6.jpg",
+        "source": "CPVN6",
         "category": "coffeeVN"
     },
     {
         "name": "Cà Phê Sữa Nóng",
         "value": 35,
-        "source": "../assets/images/Menu/CPVN7.jpg",
+        "source": "CPVN7",
         "category": "coffeeVN"
     },    
     {
         "name": "Latte Táo Lê Quế Nóng",
         "value": 59,
-        "source": "../assets/images/Menu/CPM1.jpg",
+        "source": "CPM1",
         "category": "coffeeM"
     },
     {
         "name": "Latte Táo Lê Quế Đá",
         "value": 59,
-        "source": "../assets/images/Menu/CPM2.jpg",
+        "source": "CPM2",
         "category": "coffeeM"
     },
     {
         "name": "Latte Táo Lê Quế Chai Fresh 500ml",
         "value": 109,
-        "source": "../assets/images/Menu/CPM3.jpg",
+        "source": "CPM3",
         "category": "coffeeM"
     },
     {
         "name": "Mocha Nóng",
         "value": 50,
-        "source": "../assets/images/Menu/CPM4.jpg",
+        "source": "CPM4",
         "category": "coffeeM"
     },
     {
         "name": "Mocha Đá",
         "value": 50,
-        "source": "../assets/images/Menu/CPM5.jpg",
+        "source": "CPM5",
         "category": "coffeeM"
     },
     {
         "name": "Espresso Nóng",
         "value": 40,
-        "source": "../assets/images/Menu/CPM6.jpg",
+        "source": "CPM6",
         "category": "coffeeM"
     },
     {
         "name": "Espresso Đá",
         "value": 55,
-        "source": "../assets/images/Menu/CPM8.jpg",
+        "source": "CPM8",
         "category": "coffeeM"
     },
     {
         "name": "Cappuccino Đá",
         "value": 50,
-        "source": "../assets/images/Menu/CPM9.jpg",
+        "source": "CPM9",
         "category": "coffeeM"
     },
     {
         "name": "Americano Nóng",
         "value": 40,
-        "source": "../assets/images/Menu/CPM10.jpg",
+        "source": "CPM10",
         "category": "coffeeM"
     },
     {
         "name": "Latte Đá",
         "value": 40,
-        "source": "../assets/images/Menu/CPM11.jpg",
+        "source": "CPM11",
         "category": "coffeeM"
     },
     {
         "name": "Caramel Macchiato Nóng",
         "value": 55,
-        "source": "../assets/images/Menu/CPM12.jpg",
+        "source": "CPM12",
         "category": "coffeeM"
     },
     {
         "name": "Caramel Macchiato Đá",
         "value": 50,
-        "source": "../assets/images/Menu/CPM13.jpg",
+        "source": "CPM13",
         "category": "coffeeM"
     },
     {
         "name": "Latte Nóng",
         "value": 40,
-        "source": "../assets/images/Menu/CPM14.jpg",
+        "source": "CPM14",
         "category": "coffeeM"
     },
     {
         "name": "Americano Đá",
         "value": 40,
-        "source": "../assets/images/Menu/CPM15.jpg",
+        "source": "CPM15",
         "category": "coffeeM"
     },
     {
         "name": "Cold Brew Sữa Tươi",
         "value": 45,
-        "source": "../assets/images/Menu/CB1.jpg",
+        "source": "CB1",
         "category": "coldBrew"
     },
     {
         "name": "Cold Brew Truyền Thống",
         "value": 45,
-        "source": "../assets/images/Menu/CB2.jpg",
+        "source": "CB2",
         "category": "coldBrew"
     },
     {
         "name": "Trà Dưa Đào Sung Túc",
         "value": 59,
-        "source": "../assets/images/Menu/TTC1.jpeg",
+        "source": "TTC1",
         "category": "teaFruit"
     },
     {
         "name": "Trà Sen Nhân Sum Vầy",
         "value": 59,
-        "source": "../assets/images/Menu/TTC2.jpeg",
+        "source": "TTC2",
         "category": "teaFruit"
     },
     {
         "name": "Trà Long Nhãn Hạt Chia",
         "value": 45,
-        "source": "../assets/images/Menu/TCC3.jpg",
+        "source": "TCC3",
         "category": "teaFruit"
     },
     {
         "name": "Trà Long Nhãn Hạt Chia Nóng",
         "value": 52,
-        "source": "../assets/images/Menu/TCC4.jpg",
+        "source": "TCC4",
         "category": "teaFruit"
     },
     {
         "name": "Trà Hạt Sen Đá",
         "value": 45,
-        "source": "../assets/images/Menu/TCC5.jpg",
+        "source": "TCC5",
         "category": "teaFruit"
     },
     {
         "name": "Trà Hạt Sen Nóng",
         "value": 52,
-        "source": "../assets/images/Menu/TCC6.jpg",
+        "source": "TCC6",
         "category": "teaFruit"
     },
     {
         "name": "Trà Đào Cam Sả Đá",
         "value": 52,
-        "source": "../assets/images/Menu/TCC7.jpg",
+        "source": "TCC7",
         "category": "teaFruit"
     },
     {
         "name": "Trà Đào Cam Sả Nóng",
         "value": 45,
-        "source": "../assets/images/Menu/TCC8.jpg",
+        "source": "TCC8",
         "category": "teaFruit"
     },
     {
         "name": "Trà Đào Cam Sả Chai Fresh 500ml",
         "value": 50,
-        "source": "../assets/images/Menu/TCC9.jpg",
+        "source": "TCC9",
         "category": "teaFruit"
     },
     {
         "name": "Caramel Macchiato Đá",
         "value": 50,
-        "source": "../assets/images/Menu/TSM1.jpg",
+        "source": "TSM1",
         "category": "teaMac"
     },
     {
         "name": "Hồng Trà Latte Macchiato",
         "value": 55,
-        "source": "../assets/images/Menu/TSM2.jpg",
+        "source": "TSM2",
         "category": "teaMac"
     },
     {
         "name": "Hồng Trà Sữa Nóng",
         "value": 50,
-        "source": "../assets/images/Menu/TSM3.jpg",
+        "source": "TSM3",
         "category": "teaMac"
     },
     {
         "name": "Hồng Trà Sữa Trân Châu",
         "value": 55,
-        "source": "../assets/images/Menu/TSM4.jpg",
+        "source": "TSM4",
         "category": "teaMac"
     },
     {
         "name": "Latte Táo Lê Quế Đá",
         "value": 55,
-        "source": "../assets/images/Menu/TSM5.jpg",
+        "source": "TSM5",
         "category": "teaMac"
     },
     {
         "name": "Trà Đen Macchiato",
         "value": 50,
-        "source": "../assets/images/Menu/TSM6.jpg",
+        "source": "TSM6",
         "category": "teaMac"
     },
     {
         "name": "Trà Sữa Mắc Ca Trân Châu Trắng",
         "value": 50,
-        "source": "../assets/images/Menu/TSM7.jpg",
+        "source": "TSM7",
         "category": "teaMac"
     },
     {
         "name": "Trà Sữa Masala Chai Nóng",
         "value": 59,
-        "source": "../assets/images/Menu/TSM8.jpg",
+        "source": "TSM8",
         "category": "teaMac"
     },
     {
         "name": "Trà Sữa Masala Chai Trân Châu Chai Fresh 500ml",
         "value": 109,
-        "source": "../assets/images/Menu/TSM9.jpg",
+        "source": "TSM9",
         "category": "teaMac"
     },
     {
         "name": "Trà Sữa Masala Chai Trân Châu Đá",
         "value": 59,
-        "source": "../assets/images/Menu/TSM10.jpeg",
+        "source": "TSM10",
         "category": "teaMac"
     },
     {
         "name": "Trà Sữa Oolong Nướng Nóng",
         "value": 50,
-        "source": "../assets/images/Menu/TSM11.jpg",
+        "source": "TSM11",
         "category": "teaMac"
     },
     {
         "name": "Trà Sữa Oolong Nướng Chân Châu",
         "value": 55,
-        "source": "../assets/images/Menu/TSM12.jpg",
+        "source": "TSM12",
         "category": "teaMac"
     },
     {
         "name": "Trà Sữa Oolong Nướng Trân Châu Chai 500ml",
         "value": 99,
-        "source": "../assets/images/Menu/TSM13.jpg",
+        "source": "TSM13",
         "category": "teaMac"
     },
     {
         "name": "Cà Phê Đá Xay",
         "value": 99,
-        "source": "../assets/images/Menu/DX1.jpg",
+        "source": "DX1",
         "category": "stoneX"
     },
     {
         "name": "Chanh Sả Đá Xay",
         "value": 49,
-        "source": "../assets/images/Menu/DX2.jpg",
+        "source": "DX2",
         "category": "stoneX"
     },
     {
         "name": "Chocolate Đá Xay",
         "value": 59,
-        "source": "../assets/images/Menu/DX3.jpg",
+        "source": "DX3",
         "category": "stoneX"
     },
     {
         "name": "Cookie Đá Xay",
         "value": 59,
-        "source": "../assets/images/Menu/DX4.jpg",
+        "source": "DX4",
         "category": "stoneX"
     },
     {
         "name": "Đào Việt Quất Đá Xay",
         "value": 59,
-        "source": "../assets/images/Menu/DX5.jpg",
+        "source": "DX5",
         "category": "stoneX"
     },
     {
         "name": "Matcha Đá Xay",
         "value": 59,
-        "source": "../assets/images/Menu/DX6.jpg",
+        "source": "DX6",
         "category": "stoneX"
     },
     {
         "name": "Chocolate Đá",
         "value": 59,
-        "source": "../assets/images/Menu/MCSCL1.jpg",
+        "source": "MCSCL1",
         "category": "matchaSCL"
     },
     {
         "name": "Sinh Tố Việt Quất",
         "value": 59,
-        "source": "../assets/images/Menu/MCSCL2.jpg",
+        "source": "MCSCL2",
         "category": "matchaSCL"
     },
     {
         "name": "Chocolate Đá Xay",
         "value": 59,
-        "source": "../assets/images/Menu/MCSCL3.jpg",
+        "source": "MCSCL3",
         "category": "matchaSCL"
     },
     {
         "name": "Chocolate Nóng",
         "value": 59,
-        "source": "../assets/images/Menu/MCSCL4.jpg",
+        "source": "MCSCL4",
         "category": "matchaSCL"
     },
     {
         "name": "Matcha Latte Đá",
         "value": 59,
-        "source": "../assets/images/Menu/MCSCL5.jpg",
+        "source": "MCSCL5",
         "category": "matchaSCL"
     },
     {
         "name": "Matcha Latte Nóng",
         "value": 59,
-        "source": "../assets/images/Menu/MCSCL6.jpg",
+        "source": "MCSCL6",
         "category": "matchaSCL"
     },
     {
         "name": "Bánh Mì Que Pate",
         "value": 12,
-        "source": "../assets/images/Menu/BM1.jpg",
+        "source": "BM1",
         "category": "cakeSalt"
     },
     {
         "name": "Bánh Mì Que Pate Cay",
         "value": 12,
-        "source": "../assets/images/Menu/BM2.jpg",
+        "source": "BM2",
         "category": "cakeSalt"
     },
     {
         "name": "Bánh Mì VN Thịt Nguội",
         "value": 29,
-        "source": "../assets/images/Menu/BM3.jpg",
+        "source": "BM3",
         "category": "cakeSalt"
     },
     {
         "name": "Chà Bông Phô Mai",
         "value": 32,
-        "source": "../assets/images/Menu/BM4.jpg",
+        "source": "BM4",
         "category": "cakeSalt"
     },
     {
         "name": "Croissant Trứng Muối",
         "value": 35,
-        "source": "../assets/images/Menu/BM5.jpg",
+        "source": "BM5",
         "category": "cakeSalt"
     },
     {
         "name": "Mochi Kem Dừa Dứa",
         "value": 19,
-        "source": "../assets/images/Menu/BN1.jpg",
+        "source": "BN1",
         "category": "cakeSweet"
     },
     {
         "name": "Mochi Kem Phúc Bồn Tử",
         "value": 19,
-        "source": "../assets/images/Menu/BN2.jpg",
+        "source": "BN2",
         "category": "cakeSweet"
     },
     {
         "name": "Mochi Kem Việt Quất",
         "value": 19,
-        "source": "../assets/images/Menu/BN3.jpg",
+        "source": "BN3",
         "category": "cakeSweet"
     },
     {
         "name": "Mochi Kem Xoài",
         "value": 19,
-        "source": "../assets/images/Menu/BN4.jpg",
+        "source": "BN4",
         "category": "cakeSweet"
     },
     {
         "name": "Mouse Gấu Chocolate",
         "value": 32,
-        "source": "../assets/images/Menu/BN5.jpg",
+        "source": "BN5",
         "category": "cakeSweet"
     },
     {
         "name": "Mouse Passion Chees",
         "value": 29,
-        "source": "../assets/images/Menu/BN6.jpg",
+        "source": "BN6",
         "category": "cakeSweet"
     },
     {
         "name": "Mouse Red Velvet",
         "value": 29,
-        "source": "../assets/images/Menu/BN7.jpg",
+        "source": "BN7",
         "category": "cakeSweet"
     },
     {
         "name": "Mouse Tiramisu",
         "value": 35,
-        "source": "../assets/images/Menu/BN8.jpg",
+        "source": "BN8",
         "category": "cakeSweet"
     },
     {
         "name": "Mít Sấy",
         "value": 20,
-        "source": "../assets/images/Menu/SN1.jpg",
+        "source": "SN1",
         "category": "snacks"
     },
     {
         "name": "Cà Phê Rang Xay Original 1 Túi 1KG",
         "value": 235,
-        "source": "../assets/images/Menu/CPTN1.jpeg",
+        "source": "CPTN1",
         "category": "coffeeAtHome"
     },
     {
         "name": "Cà Phê Rang Xay Original 1250gr",
         "value": 60,
-        "source": "../assets/images/Menu/CPTN2.jpg",
+        "source": "CPTN2",
         "category": "coffeeAtHome"
     },
     {
         "name": "Cà Phê Hòa Tan Đậm Vị Việt Túi 40x16G",
         "value": 99,
-        "source": "../assets/images/Menu/CPTN3.jpeg",
+        "source": "CPTN3",
         "category": "coffeeAtHome"
     },
     {
         "name": "Cà Phê Sữa Đá Hòa Tan Hộp 10 gói",
         "value": 44,
-        "source": "../assets/images/Menu/CPTN4.jpg",
+        "source": "CPTN4",
         "category": "coffeeAtHome"
     },
     {
         "name": "Cà Phê Sữa Đá Hòa Tan Đậm Vị Hộp 18 gói x 16gr",
         "value": 48,
-        "source": "../assets/images/Menu/CPTN5.jpg",
+        "source": "CPTN5",
         "category": "coffeeAtHome"
     },
     {
         "name": "Cà Phê Sữa Đá Hòa Tan Túi 25 x 22gr",
         "value": 99,
-        "source": "../assets/images/Menu/CPTN6.jpg",
+        "source": "CPTN6",
         "category": "coffeeAtHome"
     },
     {
         "name": "Cà Phê Rich Finish Gu Đậm Tinh Tế 350gr",
         "value": 90,
-        "source": "../assets/images/Menu/CPTN7.jpg",
+        "source": "CPTN7",
         "category": "coffeeAtHome"
     },
     {
         "name": "Cà Phê Peak Flavor Hương Thơm Đỉnh Cao 350gr",
         "value": 90,
-        "source": "../assets/images/Menu/CPTN8.jpg",
+        "source": "CPTN8",
         "category": "coffeeAtHome"
     },
     {
         "name": "Cà Phê Arabica",
         "value": 100,
-        "source": "../assets/images/Menu/CPTN9.jpg",
+        "source": "CPTN9",
         "category": "coffeeAtHome"
     },
     {
         "name": "Cà Phê Sữa đá Pack 6 lon",
         "value": 84,
-        "source": "../assets/images/Menu/CPTN10.jpg",
+        "source": "CPTN10",
         "category": "coffeeAtHome"
     },
     {
         "name": "Thùng 24 Lon Cà Phê Sữa Đá",
         "value": 269,
-        "source": "../assets/images/Menu/CPTN11.jpg",
+        "source": "CPTN11",
         "category": "coffeeAtHome"
     },
     {
         "name": "Combo Quà Tết 2022",
         "value": 321,
-        "source": "../assets/images/Menu/CPTN12.jpg",
+        "source": "CPTN12",
         "category": "coffeeAtHome"
     },
     {
         "name": "Combo 3 Hộp Cà Phê Sữa Đá Hòa Tan Đậm vị Hộp 18 gói x 16gr",
         "value": 109,
-        "source": "../assets/images/Menu/CPTN13.jpg",
+        "source": "CPTN13",
         "category": "coffeeAtHome"
     },
     {
         "name": "Combo 3 Hộp Cà Phê Sữa Đá Hòa Tan",
         "value": 109,
-        "source": "../assets/images/Menu/CPTN14.jpg",
+        "source": "CPTN14",
         "category": "coffeeAtHome"
     },
     {
         "name": "Combo 2 Cà Phê Rang Xay Original 1250gr",
         "value": 99,
-        "source": "../assets/images/Menu/CPTN15.jpg",
+        "source": "CPTN15",
         "category": "coffeeAtHome"
     },
     {
         "name": "Combo Quà Tết 2022",
         "value": 321,
-        "source": "../assets/images/Menu/TTN1.jpg",
+        "source": "TTN1",
         "category": "teaAtHome"
     },
     {
         "name": "Giftset Trà Tearoma",
         "value": 169,
-        "source": "../assets/images/Menu/TTN2.jpg",
+        "source": "TTN2",
         "category": "teaAtHome"
     },
     {
         "name": "Combo 3 hộp trà Lài Túi Lọc Tearoma",
         "value": 69,
-        "source": "../assets/images/Menu/TTN3.jpg",
+        "source": "TTN3",
         "category": "teaAtHome"
     },
     {
         "name": "Combo 3 hộp trà Sen túi lọc Tearoma",
         "value": 69,
-        "source": "../assets/images/Menu/TTN4.jpg",
+        "source": "TTN4",
         "category": "teaAtHome"
     },
     {
         "name": "Combo 3 hộp trà Đào túi lọc Tearoma",
         "value": 69,
-        "source": "../assets/images/Menu/TTN5.jpg",
+        "source": "TTN5",
         "category": "teaAtHome"
     },
     {
         "name": "Combo 3 hộp trà Oolong túi lọc Tearoma",
         "value": 69,
-        "source": "../assets/images/Menu/TTN6.jpg",
+        "source": "TTN6",
         "category": "teaAtHome"
     },
     {
         "name": "Trà Đào Túi Lọc Tearoma 20 x 2gr",
         "value": 28,
-        "source": "../assets/images/Menu/TTN7.jpg",
+        "source": "TTN7",
         "category": "teaAtHome"
     },
     {
         "name": "Trà Lài Túi Lọc Tearoma 20 x 2gr",
         "value": 28,
-        "source": "../assets/images/Menu/TTN8.jpg",
+        "source": "TTN8",
         "category": "teaAtHome"
     },
     {
         "name": "Trà Oolong Túi lọc Tearoma 20 x 2gr",
         "value": 28,
-        "source": "../assets/images/Menu/TTN9.jpg",
+        "source": "TTN9",
         "category": "teaAtHome"
     },
     {
         "name": "Trà Sen Túi Lọc Tearoma 20 x 2gr",
         "value": 28,
-        "source": "../assets/images/Menu/TTN10.jpg",
+        "source": "TTN10",
         "category": "teaAtHome"
     },
     {
         "name": "Trà Xanh Lá Tearoma 100gr",
         "value": 75,
-        "source": "../assets/images/Menu/TTN11.jpg",
+        "source": "TTN11",
         "category": "teaAtHome"
     },
     {
         "name": "Trà Sen Lá Tearoma 100gr",
         "value": 80,
-        "source": "../assets/images/Menu/TTN12.jpg",
+        "source": "TTN12",
         "category": "teaAtHome"
     },
     {
         "name": "Trà Oolong Lá Tearoma 100gr",
         "value": 100,
-        "source": "../assets/images/Menu/TTN13.jpg",
+        "source": "TTN13",
         "category": "teaAtHome"
     },
     {
         "name": "Trà Lài Lá Tearoma 100gr",
         "value": 80,
-        "source": "../assets/images/Menu/TTN14.jpg",
+        "source": "TTN14",
         "category": "teaAtHome"
     }
 ]
